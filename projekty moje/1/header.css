@@ -1,0 +1,30 @@
+header {
+    
+    background-image: url(header.jpg);
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+header h1, header h2 {
+    position: relative;
+    font-family: 'Amatic SC', cursive;
+    color:white;
+    background-color: rgba(0, 0, 0, 0.541);
+    text-align: center;
+    text-shadow: 15px -10px rgba(128, 128, 128, 0.486) ;
+}
+
+header h1 {
+    height: 300px;
+    padding-top: 100px;
+    line-height: 250px;
+    font-size: 120px;
+    letter-spacing: 8px;
+    
+}
+header h2 {
+    height: 200px;
+    font-size: 40px;
+    letter-spacing: 10px;
+}
